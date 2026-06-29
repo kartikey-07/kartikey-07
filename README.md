@@ -251,34 +251,34 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <div align="center">
 
 #### ICTRD
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/AI_&_Machine_Learning_Program-June_2026-4c1d95?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/AI_&_Machine_Learning_Program-June_2026-4c1d95?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 
 #### IBM
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Project--Based_ML_Learning-Jul--Aug_2025-2d1b69?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Project--Based_ML_Learning-Jul--Aug_2025-2d1b69?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 <br/>
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/GenAI_Virtual_Internship_(6_Weeks)-Aug_2025-2d1b69?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/GenAI_Virtual_Internship_(6_Weeks)-Aug_2025-2d1b69?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 
 #### Udemy
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Data_Science_&_ML_Comprehensive-May_2025-6d28d9?style=for-the-badge&logo=udemy&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Data_Science_&_ML_Comprehensive-May_2025-6d28d9?style=for-the-badge&logo=udemy&logoColor=white" /></a>
 
 #### Cisco Networking Academy
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Networking_Basics-March_2025-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Networking_Basics-March_2025-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <br/>
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Cybersecurity_Essentials-Jan_2024-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Cybersecurity_Essentials-Jan_2024-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 #### Google — Coursera
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Foundations_of_Project_Management-March_2025-6d28d9?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Foundations_of_Project_Management-March_2025-6d28d9?style=for-the-badge&logo=google&logoColor=white" /></a>
 
 #### Infosys Springboard
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Java_Programming_Fundamentals-July_2024-4c1d95?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Java_Programming_Fundamentals-July_2024-4c1d95?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 <br/>
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/HTML5_--_The_Language-Jan_2024-4c1d95?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/HTML5_--_The_Language-Jan_2024-4c1d95?style=for-the-badge&logo=html5&logoColor=white" /></a>
 
 #### IIT Bombay — Spoken Tutorial
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/C_Programming-Jan_2024-2d1b69?style=for-the-badge&logo=c&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/C_Programming-Jan_2024-2d1b69?style=for-the-badge&logo=c&logoColor=white" /></a>
 
 #### Python
-<a href="https://github.com/kartikey-07/Certificates"><img src="https://img.shields.io/badge/Python_Certification-Verified-6d28d9?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Python_Certification-Verified-6d28d9?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 </div>
 
