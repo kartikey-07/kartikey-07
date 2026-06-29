@@ -13,12 +13,11 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech_CSE-AKTU_(2022--2026)-4c1d95?style=for-the-badge&logo=google-scholar&logoColor=e9d5ff" />
-<img src="https://img.shields.io/badge/📍_Lucknow,_UP,_India-1a0533?style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://github.com/kartikey-07"><img src="https://img.shields.io/badge/Portfolio-kartikey--07-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kartikey-singh"><img src="https://img.shields.io/badge/LinkedIn-Kartikey_Singh-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kartikey-singh-a75451256/"><img src="https://img.shields.io/badge/LinkedIn-Kartikey_Singh-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kartikeysingh0719@gmail.com"><img src="https://img.shields.io/badge/Email-kartikeysingh0719-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/kartikey-07"><img src="https://img.shields.io/badge/GitHub-kartikey--07-2d1b69?style=for-the-badge&logo=github&logoColor=white" /></a>
 
