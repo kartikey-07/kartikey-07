@@ -41,7 +41,7 @@
 <!-- SECTION 2: ABOUT                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 
 
@@ -73,7 +73,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 3: TECH STACK                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -103,7 +103,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 4: AI/ML EXPERTISE                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="28" /> &nbsp;AI / ML Expertise
+## 🤖 &nbsp;AI / ML Expertise
 
 <div align="center">
 
@@ -129,7 +129,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 5: FEATURED PROJECTS                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <details>
 <summary><b>🛡️ SatyaX — AI-Powered Fact Verification & Misinformation Analysis Platform</b></summary>
@@ -191,7 +191,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 6: EXPERIENCE                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+## 💼 &nbsp;Experience
 
 <div align="center">
 
@@ -220,7 +220,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 7: ACHIEVEMENTS                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Achievements
+## 🏆 &nbsp;Achievements
 
 <div align="center">
 
@@ -246,7 +246,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 8: CERTIFICATIONS                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Certifications
+## 📜 &nbsp;Certifications
 
 <div align="center">
 
@@ -278,30 +278,10 @@ My engineering philosophy centers on transforming complex AI research into **rea
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 11: GITHUB TROPHIES                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kartikey-07&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- SECTION 12: CONTRIBUTION ACTIVITY                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> &nbsp;Contribution Activity
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -321,7 +301,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 13: CONTRIBUTION SNAKE                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -347,7 +327,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 14: CURRENT FOCUS                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28" /> &nbsp;Current Focus
+## 🎯 &nbsp;Current Focus
 
 ```yaml
 🎯 Current Status:
@@ -369,7 +349,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <!-- SECTION 15: CONNECT                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /> &nbsp;Let's Connect
+## 📬 &nbsp;Let's Connect
 
 <div align="center">
 
@@ -398,10 +378,6 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <div align="center">
 
 <br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20engineer%20it.&author=Kartikey%20Singh" />
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:4c1d95,75:6d28d9,100:7c3aed&height=120&section=footer" />
 
