@@ -4,7 +4,7 @@
 <!-- SECTION 1: ANIMATED HEADER                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:4c1d95,75:6d28d9,100:7c3aed&height=220&section=header&text=KARTIKEY%20SINGH&fontSize=42&fontColor=e9d5ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=c4b5fd&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:4c1d95,75:6d28d9,100:7c3aed&height=220&section=header&text=KARTIKEY%20SINGH&fontSize=42&fontColor=e9d5ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer&descSize=16&descColor=c4b5fd&descAlignY=55&animation=fadeIn" />
 
 <br/>
 
@@ -43,7 +43,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-07&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
+
 
 Computer Science Engineering graduate from **Dr. A.P.J. Abdul Kalam Technical University** specializing in **Python, AI/ML, and Backend Development**. I architect and deploy production-grade NLP systems using **BERT, GPT-2, and Google Gemini API**, with a strong focus on building scalable, intelligent applications.
 
@@ -87,7 +87,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,postgresql&theme=dark" /></a>
 
 ### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,aws,ubuntu&theme=dark" /></a>
 
 </div>
 
@@ -169,13 +169,13 @@ My engineering philosophy centers on transforming complex AI research into **rea
 | **Scale** | Full-platform with user & admin workflows for waste management |
 | **Performance** | **94% accuracy** — ML classification across multiple waste categories |
 | **Security** | Role-based user/admin access, secure data management |
-| **Impact** | Reward-driven recycling system, published research paper (AIJR Vol 7, Issue 2) |
+| **Impact** | Reward-driven recycling system, [published research paper](https://www.aijfr.com/research-paper.php?id=4373) (AIJR Vol 7, Issue 2) |
 
 **Key Engineering Achievements:**
 - Trained classification model on structured waste datasets achieving **94% accuracy**
 - Designed separate user and admin workflows for waste reporting, tracking, and verification
 - Built backend features for managing records, submissions, and classification results
-- **Published research paper** — *Advanced International Journal for Research*, Vol 7, Issue 2
+- **[Published research paper](https://www.aijfr.com/research-paper.php?id=4373)** — *Advanced International Journal for Research*, Vol 7, Issue 2
 
 </details>
 
@@ -195,7 +195,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 
 <div align="center">
 
-### 📄 Research Author &nbsp;•&nbsp; Advanced International Journal for Research
+### 📄 Research Author &nbsp;•&nbsp; [Advanced International Journal for Research](https://www.aijfr.com/research-paper.php?id=4373)
 **March — April 2026** &nbsp;|&nbsp; *Volume 7, Issue 2*
 
 </div>
@@ -226,7 +226,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 
 | Recognition | Details |
 |:-----------:|:--------|
-| 📝 **Published Research** | *Smart Scrap: AI-Based Waste Segregation* — AIJR, Volume 7, Issue 2 (2026) |
+| 📝 **Published Research** | [*Smart Scrap: AI-Based Waste Segregation*](https://www.aijfr.com/research-paper.php?id=4373) — AIJR, Volume 7, Issue 2 (2026) |
 | 🎯 **93% Model Accuracy** | BERT-based Fake News Detection — Multi-category classification system |
 | 🎯 **94% Model Accuracy** | ML Waste Classification — Structured dataset, multiple waste categories |
 | 🧠 **Multi-API AI Pipeline** | Integrated BERT + GPT-2 + Google Gemini in a single verification system |
@@ -275,62 +275,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 9: CODING PROFILES                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="28" /> &nbsp;Coding Profiles
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-kartikey__07-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-kartikey__07-2d1b69?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-kartikey__07-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-kartikey__07-7c3aed?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-
-</div>
-
-> **Note:** Update the `href="#"` links above with your actual coding profile URLs.
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 10: GITHUB ANALYTICS                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/kartikey-07">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartikey-07&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/kartikey-07">
-  <img width="49%" src="https://streak-stats.demolab.com?user=kartikey-07&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=8b5cf6" />
-</a>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-07&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- SECTION 11: GITHUB TROPHIES                                                    -->
@@ -430,7 +375,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 
 <a href="mailto:kartikeysingh0719@gmail.com"><img src="https://img.shields.io/badge/Gmail-kartikeysingh0719-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/kartikey-singh"><img src="https://img.shields.io/badge/LinkedIn-Kartikey_Singh-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kartikey-singh-a75451256/"><img src="https://img.shields.io/badge/LinkedIn-Kartikey_Singh-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/kartikey-07"><img src="https://img.shields.io/badge/GitHub-kartikey--07-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
