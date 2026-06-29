@@ -277,8 +277,8 @@ My engineering philosophy centers on transforming complex AI research into **rea
 #### IIT Bombay — Spoken Tutorial
 <a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/C_Programming-Jan_2024-2d1b69?style=for-the-badge&logo=c&logoColor=white" /></a>
 
-#### Python
-<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Python_Certification-Verified-6d28d9?style=for-the-badge&logo=python&logoColor=white" /></a>
+#### GUVI — HCL (Google for Education Partner)
+<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Python-July_2025-6d28d9?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 </div>
 
