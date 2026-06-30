@@ -21,11 +21,7 @@
 <a href="mailto:kartikeysingh0719@gmail.com"><img src="https://img.shields.io/badge/Email-kartikeysingh0719-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/kartikey-07"><img src="https://img.shields.io/badge/GitHub-kartikey--07-2d1b69?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kartikey-07&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
-<a href="https://github.com/kartikey-07?tab=followers"><img src="https://img.shields.io/github/followers/kartikey-07?style=for-the-badge&color=4c1d95&labelColor=1a0533&logo=github" /></a>
-<a href="https://github.com/kartikey-07?tab=repositories"><img src="https://img.shields.io/github/stars/kartikey-07?style=for-the-badge&color=7c3aed&labelColor=1a0533&logo=github" /></a>
+<br/>
 
 </div>
 
