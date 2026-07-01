@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://kartikeysingh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kartikey--07-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://kartikeysingh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kartikey-singh-a75451256/"><img src="https://img.shields.io/badge/LinkedIn-Kartikey_Singh-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kartikeysingh0719@gmail.com"><img src="https://img.shields.io/badge/Email-kartikeysingh0719-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/kartikey-07"><img src="https://img.shields.io/badge/GitHub-kartikey--07-2d1b69?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -344,7 +344,7 @@ My engineering philosophy centers on transforming complex AI research into **rea
 &nbsp;
 <a href="https://github.com/kartikey-07"><img src="https://img.shields.io/badge/GitHub-kartikey--07-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2d1b69?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://kartikeysingh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-2d1b69?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
