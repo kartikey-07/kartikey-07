@@ -250,8 +250,6 @@ My engineering philosophy centers on transforming complex AI research into **rea
 <a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/AI_&_Machine_Learning_Program-June_2026-4c1d95?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 
 #### IBM
-<a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/Project--Based_ML_Learning-Jul--Aug_2025-2d1b69?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-<br/>
 <a href="https://github.com/kartikey-07/Certifications"><img src="https://img.shields.io/badge/GenAI_Virtual_Internship_(6_Weeks)-Aug_2025-2d1b69?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 
 #### Udemy
